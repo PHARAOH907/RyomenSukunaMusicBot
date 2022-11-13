@@ -6,7 +6,7 @@
     "scripts": {
         "build": "bash start",
         "test": "echo \"No test specified\" && exit 1",
-        "start": "bash start"
+        "start": "bash comfig.env"
     },
     "repository": {
         "type": "git",
