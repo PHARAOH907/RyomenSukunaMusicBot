@@ -4,9 +4,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "bash start",
-        "test": "echo \"No test specified\" && exit 1",
-        "start": "bash comfig.env"
+        "start": "start"
     },
     "repository": {
         "type": "git",
